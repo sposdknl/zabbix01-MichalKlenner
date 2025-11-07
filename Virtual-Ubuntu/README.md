@@ -1,0 +1,1 @@
+Vytvořil jsem vagrant file ubuntu 24.04. Poté jsem nainstaloval Zabbix agent2 do virtualu, přepsal jsem hostname hostmetadata a podobné, abych se mohl dostat na zabbix.
